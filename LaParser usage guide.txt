@@ -1,0 +1,18 @@
+#Program usage guide
+#manual for using the Lexical analyzer & Parser program, Team 5
+
+Windows user :
+1. Pastikan sudah terinstal library python di OS windows, kalau belum bisa download di https://www.python.org/downloads/windows/
+2. [Optional] Buka File LaParser.py di code editor untuk melihat source code
+3. Buka Terminal/CMD untuk menjalankan program
+4. Masuk ke Folder/Direktori tempat file LaParser.py berada
+5. Ketik python LaParser.py
+6. Bila tidak bisa ketik python3 LaParser.py
+7. Input 3 kata berupa kalimat sesuai grammar SOV apa saja yang ditampilkan pada terminal , misal: she likes cat
+
+Linux user :
+1. [Optional] Buka File LaParser.py di code editor untuk melihat source code
+2. Buka Terminal/CLI untuk menjalankan program
+3. Masuk ke Folder/Direktori tempat file LaParser.py berada
+4. ketik python3 LaParser.py
+5.  Input 3 kata berupa kalimat sesuai grammar SOV apa saja yang ditampilkan pada terminal , misal: she likes cat
